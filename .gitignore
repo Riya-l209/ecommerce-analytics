@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Data dumps & sensitive files
+*.env
+*.bak
+*.log
+
+# Temp files
+*.tmp
